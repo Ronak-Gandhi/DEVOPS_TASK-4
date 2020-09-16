@@ -8,7 +8,7 @@
 
 `3.` **Create a job chain of job1 & job2 using build pipeline plugin in Jenkins**.
 
-`4.` **Job1 : Pull the Github repo automatically when some developers push repo to Github and perform the following operations as:**
+`4.` **Job-1 : Pull the Github repo automatically when some developers push repo to Github and perform the following operations as:**
 
 *  _**Create the new image dynamically for the application and copy the application code into that corresponding docker image**_!
 
@@ -16,7 +16,7 @@
 
  _( Github code contain the application code and Dockerfile to create a new image )_
 
-`5.` **Job2 ( Should be run on the dynamic slave of Jenkins configured with Kubernetes kubectl command): Launch the application on the top of Kubernetes cluster performing following operations:**
+`5.` **Job-2 ( Should be run on the dynamic slave of Jenkins configured with Kubernetes kubectl command): Launch the application on the top of Kubernetes cluster performing following operations:**
 
  * _**If launching first time then create a deployment of the pod using the image created in the previous job. Else if deployment already exists then do rollout of the existing pod making zero downtime for the user**_!
 
