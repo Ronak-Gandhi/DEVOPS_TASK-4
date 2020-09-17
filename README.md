@@ -26,5 +26,9 @@
 
 * _**Created container image that has Linux and other basic configuration required to run Slave for Jenkins and  kubernetes also configured from SSH enabled image**_
 
+![Screenshot (183)](https://user-images.githubusercontent.com/64469896/93472031-c0a4af80-f911-11ea-9dc5-1507eb3936d4.png)
 
+* after creating an image by dockerfile ,i pushed it on dockerhub..
+
+* *  _**`JOB-1`.**_ 
 
