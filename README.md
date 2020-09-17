@@ -46,7 +46,9 @@
 _To perform job-2 on cloud,we have to create dynamic slave and configure the dynamic cloud_..
 for this ,we have to **append -H tcp://0.0.0.0:4243 to ExecStart in docker.service.file**!!
 
-* **Configue Cloud in jenkins**:-
+* **Configue Cloud in jenkins**:-(for this, Docker Plugin should be installed).
+
+
 
 
 
