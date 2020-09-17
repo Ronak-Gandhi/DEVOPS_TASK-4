@@ -22,5 +22,9 @@
 
  *  _**If Application created first time, then Expose the application. Else don’t expose it**_!
 
-```
+---
+
+* _**Created container image that has Linux and other basic configuration required to run Slave for Jenkins and  kubernetes also configured from SSH enabled image**_
+
+
 
