@@ -56,3 +56,7 @@ for this ,we have to **append -H tcp://0.0.0.0:4243 to ExecStart in docker.servi
 
 ![Screenshot (196)](https://user-images.githubusercontent.com/64469896/93499084-33248800-f930-11ea-8e66-233246c1ee27.png)
 
+_when job-1 and job-2 runs successfully then deployment launches and if any changes ocuurs on github then automatically updates_..
+
+## THANK YOU !!
+
