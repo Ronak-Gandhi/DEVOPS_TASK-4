@@ -32,3 +32,14 @@
 
 * *  _**`JOB-1`.**_ 
 
+![Screenshot (185)](https://user-images.githubusercontent.com/64469896/93474099-8a1c6400-f914-11ea-9a5a-43a78a72747b.png)
+
+![Screenshot (186)](https://user-images.githubusercontent.com/64469896/93474103-8be62780-f914-11ea-9c9d-c9fff601f7a9.png)
+
+![Screenshot (184)](https://user-images.githubusercontent.com/64469896/93474106-8c7ebe00-f914-11ea-9aa9-72fdd30989e3.png)
+
+![Screenshot (187)](https://user-images.githubusercontent.com/64469896/93474137-956f8f80-f914-11ea-97fc-8e1103d5b5c4.png)
+
+
+
+
