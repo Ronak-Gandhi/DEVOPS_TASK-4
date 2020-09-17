@@ -24,7 +24,7 @@
 
 ---
 
-* _**Created container image in which kubernetes also configured from SSH enabled image**_
+* _**Created container image in which kubernetes configured and also SSH enabled**_
 
 ![Screenshot (183)](https://user-images.githubusercontent.com/64469896/93472031-c0a4af80-f911-11ea-9dc5-1507eb3936d4.png)
 
