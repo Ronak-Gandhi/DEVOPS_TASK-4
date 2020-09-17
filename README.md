@@ -21,3 +21,6 @@
  * _**If launching first time then create a deployment of the pod using the image created in the previous job. Else if deployment already exists then do rollout of the existing pod making zero downtime for the user**_!
 
  *  _**If Application created first time, then Expose the application. Else don’t expose it**_!
+
+```
+
