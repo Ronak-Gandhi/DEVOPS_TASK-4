@@ -52,4 +52,7 @@ for this ,we have to **append -H tcp://0.0.0.0:4243 to ExecStart in docker.servi
 
 * _Configuration of Job-2_..
 
+![Screenshot (194)](https://user-images.githubusercontent.com/64469896/93499065-2b64e380-f930-11ea-9a1c-8c4424576191.png)
+
+![Screenshot (196)](https://user-images.githubusercontent.com/64469896/93499084-33248800-f930-11ea-8e66-233246c1ee27.png)
 
