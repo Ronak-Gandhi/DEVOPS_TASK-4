@@ -1,6 +1,6 @@
 # DEVOPS_TASK-4
 
-## TASK OBJECTIVE:-
+
 
 `1.` **Create container image that’s has Linux and other basic configuration required to run Slave for Jenkins. ( example here we require kubectl to be configured )**
 
